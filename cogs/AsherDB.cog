@@ -2,8 +2,5 @@
   "name": "Asher",
   "version": "1.0.1",
   "repo": "crazywolf132/Asher",
-  "dependencies": {
-    "AsherDB": "inside"
-  },
-  "install": "make install"
+  "install": "none"
 }
