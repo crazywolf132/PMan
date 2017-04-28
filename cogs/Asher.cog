@@ -5,7 +5,7 @@
   "dependencies":[
      {
         "name":"AsherDB",
-        "from":"crazywolf132/Asher",
+        "from":"crazywolf132/Ai-DB",
         "where":"inside"
      }
   ],
