@@ -7,6 +7,11 @@
         "name":"AsherDB",
         "from":"crazywolf132/Ai-DB",
         "where":"inside"
+     },
+     {
+        "name":"BlackRum",
+        "from":"crazywolf132/BlackRum",
+        "where":"HOME"
      }
   ],
   "install": "make install"

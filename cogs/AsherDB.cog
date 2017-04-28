@@ -1,6 +1,13 @@
 {
-  "name": "Asher",
+  "name": "AsherDB",
   "version": "1.0.1",
   "repo": "crazywolf132/Asher",
-  "install": "none"
+  "dependencies":[
+     {
+        "name":"FrankPhil",
+        "from":"crazywolf132/FrankPhil",
+        "where":"inside"
+     }
+  ],
+  "install": "make install"
 }
