@@ -2,22 +2,5 @@
   "name": "FrankPhil",
   "version": "1.0.1",
   "repo": "crazywolf132/FrankPhil",
-  "dependencies":[
-     {
-        "name":"NONE",
-        "from":"crazywolf132/Ai-DB",
-        "where":"inside"
-     },
-     {
-        "name":"BlackRum",
-        "from":"crazywolf132/BlackRum",
-        "where":"HOME"
-     },
-     {
-        "name":"BlackRum2",
-        "from":"crazywolf132/BlackRum",
-        "where":"HOME"
-     }
-  ],
   "install": "make install"
 }
