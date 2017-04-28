@@ -4,7 +4,7 @@
   "repo": "crazywolf132/FrankPhil",
   "dependencies":[
      {
-        "name":"AsherDB",
+        "name":"NONE",
         "from":"crazywolf132/Ai-DB",
         "where":"inside"
      },
