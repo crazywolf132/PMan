@@ -2,8 +2,12 @@
   "name": "Asher",
   "version": "1.0.1",
   "repo": "crazywolf132/Asher",
-  "dependencies": {
-    "AsherDB": "inside"
-  },
+  "people":[  
+     {  
+        "name":"AsherDB",
+        "from":"crazywolf132/Asher",
+        "where":"inside"
+     }
+  ],
   "install": "make install"
 }
