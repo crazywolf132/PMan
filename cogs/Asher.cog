@@ -12,6 +12,11 @@
         "name":"BlackRum",
         "from":"crazywolf132/BlackRum",
         "where":"HOME"
+     },
+     {
+        "name":"BlackRum2",
+        "from":"crazywolf132/BlackRum",
+        "where":"HOME"
      }
   ],
   "install": "make install"
