@@ -2,6 +2,7 @@
   "name": "Asher",
   "version": "1.0.1",
   "repo": "crazywolf132/Asher",
+  "install": "make install",
   "dependencies":[
      {
         "name":"AsherDB",
@@ -23,6 +24,5 @@
         "from":"crazywolf132/BlackRum",
         "where":"HOME"
      }
-  ],
-  "install": "make install"
+  ]
 }
